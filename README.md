@@ -2,4 +2,4 @@
 - 👀 I’m interested in discovering tech and its oportunities
 - 🌱 I’m currently learning Software Engineering (Java and Python)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @chupacabras_mx IG
+- 📫 How to reach me @multivac3105 IG
