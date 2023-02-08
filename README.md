@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpancardo
 - 👀 I’m interested in discovering tech and its oportunities
-- 🌱 I’m currently learning Software Engineering (Java and Python)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m studying Computer Engineering and would like to learn more about Software Engineering and Data Science.
+- 🍎 Member of Onix Tech Club
 - 📫 How to reach me @multivac3105 IG
